@@ -1,4 +1,4 @@
-## Hello, I'm Anthony! 👋
+## Hello, I'm Anton! 👋
 
 <!--
 **finchren/finchren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
