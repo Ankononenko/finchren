@@ -13,6 +13,9 @@
 <a href="https://en.wikipedia.org/wiki/Linux">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/SQL">
+  <img src="https://mpng.subpng.com/20180816/yix/kisspng-microsoft-sql-server-computer-icons-database-serve-sql-file-format-symbol-svg-png-icon-free-download-5b7624bb0dee59.4440055115344693070571.jpg" alt="SQL" height="50"/>
+</a>
 <a href="https://www.vim.org/">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="Vim" height="50"/>
 </a>
