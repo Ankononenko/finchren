@@ -1,6 +1,6 @@
 ## Hello, I'm Anton! 👋
 ### Currently I do:
-- 🔭 I’m working on **[Linux Monitoring 2](https://github.com/finchren/School21_main_education/tree/main/linux_monitoring_v2)**
+- 🔭 I’m working on **[Linux Monitoring 2 - Part 7. Prometheus and Grafana](https://github.com/finchren/School21_main_education/tree/main/linux_monitoring_v2)**
 - 🌱 I’m currently learning **Bash and Linux OS (Ubuntu 20.04.5 LTS Server version)**
 - 🔰 I'm also going through the [SQL Zoo exercises](https://sqlzoo.net/wiki/SQL_Tutorial) to refresh my knowledge of the querries.
 
