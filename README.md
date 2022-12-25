@@ -20,6 +20,15 @@
 <a href="https://www.vim.org/">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="Vim" height="50"/>
 </a>
+<a href="https://grafana.com/)">
+  <img src="https://assets.website-files.com/627ba6588811eca90ffd6f2a/6282a6afbfe3d16f0a4d67f9_grafana.png" alt="Grafana" width="50"/>
+</a>
+<a href="https://prometheus.io/)">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="Prometheus" width="50"/>
+</a>
+<a href="https://www.docker.com/)">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="50"/>
+</a>
 <a href="https://kotlinlang.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" height="50"/>
 </a>
