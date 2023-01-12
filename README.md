@@ -41,7 +41,7 @@
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=finchren&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finchren&hide=html&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=finchren&hide=html&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=finchren&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![GitHub Follow](https://img.shields.io/github/followers/finchren?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/finchren)
