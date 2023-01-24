@@ -1,7 +1,7 @@
 ## Hello, I'm Anton! 👋
 ### Currently I do:
 - 🔭 I’m working on the **[Implementation of my own s21_decimal.h library](https://github.com/finchren/School21_main_education/tree/main/decimal)**
-- 🌱 I’m currently learning **Bash, Linux OS (Ubuntu 20.04.5 LTS Server version) and Docker**
+- 🌱 I’m currently learning **C, Bash, Linux OS (Ubuntu 20.04.5 LTS Server version) and Docker**
 
 ### Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
