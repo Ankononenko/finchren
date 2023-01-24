@@ -1,6 +1,6 @@
 ## Hello, I'm Anton! 👋
 ### Currently I do:
-- 🔭 I’m working on the **[development of a simple CI/CD for the SimpleBashUtils project. Building, testing, deployment](https://github.com/finchren/School21_main_education/tree/main/CICD)**
+- 🔭 I’m working on the **[Implementation of my own s21_decimal.h library](https://github.com/finchren/School21_main_education/tree/main/decimal)**
 - 🌱 I’m currently learning **Bash, Linux OS (Ubuntu 20.04.5 LTS Server version) and Docker**
 
 ### Tools:
