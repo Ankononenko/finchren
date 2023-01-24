@@ -2,7 +2,6 @@
 ### Currently I do:
 - 🔭 I’m working on the **[development of a simple CI/CD for the SimpleBashUtils project. Building, testing, deployment](https://github.com/finchren/School21_main_education/tree/main/CICD)**
 - 🌱 I’m currently learning **Bash, Linux OS (Ubuntu 20.04.5 LTS Server version) and Docker**
-- 🔰 I'm also going through the [SQL Zoo exercises](https://sqlzoo.net/wiki/SQL_Tutorial) to refresh my knowledge of the querries.
 
 ### Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
