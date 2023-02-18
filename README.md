@@ -1,4 +1,7 @@
 ## Hello, I'm Anton! 👋
+
+I'm a programmer who enjoys the challenge of turning complex problems into simple and elegant solutions. My code is like a fine wine - it gets better with age and refinement. When I'm not coding, you can find me exploring the great outdoors, savoring good coffee, or contemplating the mysteries of the universe (in that order).
+
 ### Currently I do:
 - 🔭 I’m working on the **[Implementation of my own s21_decimal.h library](https://github.com/finchren/School21_main_education/tree/main/decimal)**
 - 🌱 I’m currently learning **C, Bash, Linux OS (Ubuntu 20.04.5 LTS Server version) and Docker**
