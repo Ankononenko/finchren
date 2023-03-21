@@ -3,7 +3,7 @@
 I'm a programmer who enjoys the challenge of turning complex problems into simple and elegant solutions. My code is like a fine wine - it gets better with age and refinement. When I'm not coding, you can find me exploring the great outdoors, savoring good coffee, or contemplating the mysteries of the universe (in that order).
 
 ### Currently I do:
-- 🌱 I’m working on the **Implementation of 3DViewer v1.0.**
+- 🌱 I’m working on the **[Implementation of 3DViewer v1.0.](https://github.com/finchren/s21_3DViewer)**
 
 ### Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
