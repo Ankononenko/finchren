@@ -3,7 +3,9 @@
 I'm a programmer who enjoys the challenge of turning complex problems into simple and elegant solutions. My code is like a fine wine - it gets better with age and refinement. When I'm not coding, you can find me exploring the great outdoors, savoring good coffee, or contemplating the mysteries of the universe (in that order).
 
 ### Currently I do:
-- 🌱 I’m working on the **[Implementation of the s21_matrix_oop.h library.](https://github.com/finchren/s21_cpp_matrix)**
+- 🌱 I’m working on the:
+- **[Implementation of the s21_matrix_oop.h library.](https://github.com/finchren/s21_cpp_matrix)**
+- **[SQL Bootcamp.](https://github.com/finchren/School21_main_education/tree/main/SQL_bootcamp)**
 
 ### Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
