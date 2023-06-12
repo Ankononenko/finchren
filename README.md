@@ -5,7 +5,7 @@ I'm a programmer who enjoys the challenge of turning complex problems into simpl
 ### Currently I do:
 - 🌱 I’m working on the:
 - **[Implementation of the s21_matrix_oop.h library.](https://github.com/finchren/s21_cpp_matrix)**
-- **[SQL Bootcamp.](https://github.com/finchren/School21_main_education/tree/main/SQL_bootcamp)**
+
 
 ### Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
