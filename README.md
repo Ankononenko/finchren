@@ -5,6 +5,7 @@ I'm a programmer who enjoys the challenge of turning complex problems into simpl
 ### Currently I do:
 - 🌱 I’m working on the:
 - **[Finishing touches - Implementation of the s21_matrix_oop.h library.](https://github.com/finchren/s21_cpp_matrix)**
+- **[Telegram bot for booking time for a washing machine in a coliving](https://github.com/finchren/Telegram_bots/tree/develop/booking_bot)**
 
 
 ### Tools:
