@@ -2,7 +2,7 @@
 
 ### Currently I do:
 - 🌱 I’m working on the:
-- **[Finishing touches - Implementation of the s21_matrix_oop.h library.](https://github.com/finchren/s21_cpp_matrix)**
+- **Android development course**
 
 ### Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -35,5 +35,4 @@
 
 ### Contacts:
 - Languages 🌐: English, Russian.
-- Telegram ☎️: [@finchren](https://t.me/finchren)
-- Email ✉️: finchren@student.21-school.ru
+- Telegram ☎️: [@Anton_Kononenko]([https://t.me/finchren](https://t.me/Anton_Kononenko)https://t.me/Anton_Kononenko)
